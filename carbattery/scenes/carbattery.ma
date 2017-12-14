@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: carbattery.ma
-//Last modified: Thu, Dec 14, 2017 07:46:56 PM
+//Last modified: Thu, Dec 14, 2017 07:58:41 PM
 //Codeset: 1252
 requires maya "2017";
 requires -nodeType "mentalrayFramebuffer" -nodeType "mentalrayOptions" -nodeType "mentalrayGlobals"
